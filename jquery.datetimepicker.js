@@ -103,6 +103,14 @@
 					"Sön", "Mån", "Tis", "Ons", "Tor", "Fre", "Lör"
 				]
 			},
+			da:{ // Danish
+				months: [
+					"Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September","Oktober", "November", "December"
+				],
+				dayOfWeek: [
+					"Søn", "Man", "Tirs", "Ons", "Tors", "Fre", "Lør"
+				]
+			},
 			kr:{ // Korean
 				months: [
                     "1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"
